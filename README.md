@@ -1,1 +1,1 @@
-# mn12
+# Tickit Reservation System Using Python
